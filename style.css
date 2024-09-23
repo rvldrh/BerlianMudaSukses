@@ -383,6 +383,25 @@ header .fa-bars{
     left: 15px;
     opacity: 0.06;
   }
+
+  .btn-catalog{
+    width: 100%;
+    background-color: #3ec1d5;
+    color: #fff;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-top: 15px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.btn-catalog:hover{
+  background-color: #fff;
+  color: #3ec1d5;
+  border: #3ec1d5 1px solid;
+}
   
   /* End header */
   
